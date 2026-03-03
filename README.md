@@ -1,16 +1,24 @@
-## Hi there 👋
+# Zubair Soomro
 
-<!--
-**Zubair1s/Zubair1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Computer Science student at Fast University (3rd year), interested in Python, C++, and system programming.
 
-Here are some ideas to get you started:
+## Currently Working On
+- Personal projects in C++ and Python
+- Learning Git and GitHub workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced Git concepts
+- Web development (HTML, CSS, JS)
+- WSL/Linux environment
+
+## Skills
+- C++ | Python | Git | GitHub | Linux
+- Markdown | Bash | VS Code
+
+## Reach Me
+- Email: zubair@email.com
+- LinkedIn: linkedin.com/in/zubair1s
+
+## Fun Fact
+I love coding challenges and building small tools that make life easier!
