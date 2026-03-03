@@ -1,7 +1,3 @@
-# Zubair Soomro
-
-## About Me
-I am a Computer Science student at Fast University (3rd year), interested in Python, C++, and system programming.
 # Zubair Ahmed
 
 ## About Me
