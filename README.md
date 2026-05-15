@@ -19,5 +19,5 @@ I am a Computer Science student at Fast University 6th semester, interested in P
 - Email: zasoomro111@gmail.com
 - LinkedIn: linkedin.com/in/zubair1s
 
-Passionately curious, which keeps me constantly learning.
+Passionately curious, which keeps me constantly learning. 
 
