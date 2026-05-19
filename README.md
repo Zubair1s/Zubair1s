@@ -4,7 +4,7 @@ I am a Computer Science student at Fast University 6th semester, interested in P
 
 ## Currently Working On
 - Personal projects in C++ and Python
-- Learning WEB DEV AND TECH TOOLS LIKE GIT AND ALSO WORKING ON CLOUD.
+- Learning WEB DEV AND TECH TOOLS LIKE GIT AND ALSO WORKING ON CLOUD. 
 
 ## Currently Learning
 - Advanced Git concepts
