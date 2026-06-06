@@ -1,14 +1,14 @@
 # Zubair Ahmed
 ## About Me
-I am a Computer Science student at Fast University 6th semester, interested in Python, C++, software dev and system programming.
+I am a Final Year Computer Science student at Fast University, interested in Python, C++, software dev and system programming.
 
 ## Currently Working On
 - Personal projects in C++ and Python
-- Learning WEB DEV AND TECH TOOLS LIKE GIT AND ALSO WORKING ON CLOUD. 
+- Becoming Full Stack Developer. 
 
 ## Currently Learning
 - Advanced Git concepts
-- Web development (HTML, CSS, JS)
+- Nodejs Typescript Expressjs
 - WSL/Linux environment
 
 ## Skills
