@@ -1,4 +1,4 @@
-# Hi, I'm Zubair Ahmed 👋
+# Hi, I'm Zubair Ahmed 
 
 **Final-year Computer Science student at FAST University, Karachi**
 I like building things close to the metal in C++ and shipping practical apps in Python.
