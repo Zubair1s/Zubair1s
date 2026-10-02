@@ -17,7 +17,7 @@ I am a Final Year Computer Science student at Fast University, interested in Pyt
 
 ## Reach Me
 - Email: zasoomro111@gmail.com
-- LinkedIn: linkedin.com/in/zubair1s
+- LinkedIn: https://www.linkedin.com/in/zubair-ahmed-a4488b30a/
  
 Passionately curious, which keeps me constantly learning. 
  
