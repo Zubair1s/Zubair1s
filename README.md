@@ -1,71 +1,52 @@
-<div align="center">
+# Hi, I'm Zubair Ahmed 👋
 
-<img src="assets/hero.svg" alt="Zubair Ahmed - terminal intro" width="100%"/>
+**Final-year Computer Science student at FAST University, Karachi**
+I like building things close to the metal in C++ and shipping practical apps in Python.
 
-</div>
+---
 
-<br/>
+## About Me
 
-### `$ pmap $(pidof zubair)`
+I'm interested in **system programming**, **backend development** and **problem solving**. I enjoy understanding how things work under the hood, from memory and processes to sockets and APIs, and then turning that into real projects.
 
-> Most profiles are a list. Mine is a process. This is my memory layout right now.
+Outside of projects, I practice competitive programming on [LeetCode](https://leetcode.com/u/soomro1/) and [Codeforces](https://codeforces.com/profile/Soomro).
 
-```text
-HIGH ADDRESS
-┌────────────────────────────────────────────────────────┐
-│ STACK   what I'm running right now                     │
-│   push  personal projects in C++ and Python            │
-│   push  becoming a full-stack developer                │
-├────────────────────────────────────────────────────────┤
-│  .  .  .  .  .  unallocated  .  .  .  .  .  .          │
-├────────────────────────────────────────────────────────┤
-│ HEAP    allocated, still being learned                 │
-│   malloc(advanced_git)                                 │
-│   malloc(node + typescript + express)                  │
-│   malloc(wsl_and_linux)                                │
-├────────────────────────────────────────────────────────┤
-│ .data   what I carry with me                           │
-│   C++  Python  C  JavaScript  HTML/CSS                 │
-│   Git  GitHub  Linux  Docker  SQL  MongoDB             │
-├────────────────────────────────────────────────────────┤
-│ .text   read-only, always executing                    │
-│   Final-year CS @ FAST. Curious by default.            │
-│   Solving problems. Shipping programs.                 │
-└────────────────────────────────────────────────────────┘
-LOW ADDRESS
-```
+## Currently Working On
 
-<br/>
+- Personal projects in **C++** and **Python**
+- Growing into a **full-stack developer**, building a complete app with a Node.js + TypeScript backend and a real database
 
-### `$ nm --defined-only projects.o`
+## Currently Learning
 
-| symbol | lang | what it does |
-|:--|:--:|:--|
-| [`pymapshelper`](https://github.com/Zubair1s/pymapshelper) | Python | A library that wraps OpenStreetMap APIs: geocoding, places, routing |
-| [`flaskchatapp`](https://github.com/Zubair1s/flaskchatapp) | Python | Real-time chat web app on Flask + Socket.IO |
-| [`Wallet-Woes`](https://github.com/Zubair1s/Wallet-Woes) | Python | Expense tracker with a customtkinter UI and SQLite storage |
-| [`ClickNShop`](https://github.com/Zubair1s/ClickNShop-Programming-Fundamental-Project-in-C) | C | A shopping program built from pure C fundamentals |
+- Advanced Git (rebasing, branching strategies, clean history)
+- Node.js, TypeScript and Express.js
+- Linux and WSL for a faster, more realistic dev environment
 
-<br/>
+## Tech Stack
 
-### `$ ./reach_me`
+| Area | Tools |
+|:--|:--|
+| **Languages** | C++, Python, C, JavaScript |
+| **Web** | HTML, CSS, Flask, Socket.IO |
+| **Databases** | SQL (SQLite), MongoDB |
+| **Tools** | Git, GitHub, Docker, Linux |
 
-```c
-int main(void) {
-    connect("linkedin");     // https://www.linkedin.com/in/zubair-ahmed-a4488b30a/
-    send_mail("inbox");      // zasoomro111@gmail.com
-    solve("leetcode");       // https://leetcode.com/u/soomro1/
-    compete("codeforces");   // https://codeforces.com/profile/Soomro
-    return 0;
-}
-```
+## Featured Projects
 
-[LinkedIn](https://www.linkedin.com/in/zubair-ahmed-a4488b30a/) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/soomro1/) &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/Soomro) &nbsp;·&nbsp; [Email](mailto:zasoomro111@gmail.com)
+| Project | Description | Tech |
+|:--|:--|:--|
+| [**pymapshelper**](https://github.com/Zubair1s/pymapshelper) | Python library wrapping OpenStreetMap APIs: geocoding, places and routing | Python |
+| [**flaskchatapp**](https://github.com/Zubair1s/flaskchatapp) | Real-time chat web app | Flask, Socket.IO |
+| [**Wallet-Woes**](https://github.com/Zubair1s/Wallet-Woes) | Desktop expense tracker with a clean UI | Python, customtkinter, SQLite |
+| [**ClickNShop**](https://github.com/Zubair1s/ClickNShop-Programming-Fundamental-Project-in-C) | Shopping program built using core C fundamentals | C |
 
-<br/>
+## Let's Connect
 
-```text
-$ make profile
-[100%] Built target zubair
-0 errors, 0 warnings, 1 very curious developer.
-```
+- 💼 LinkedIn: [linkedin.com/in/zubair-ahmed-a4488b30a](https://www.linkedin.com/in/zubair-ahmed-a4488b30a/)
+- 📧 Email: [zasoomro111@gmail.com](mailto:zasoomro111@gmail.com)
+- 🧩 LeetCode: [soomro1](https://leetcode.com/u/soomro1/)
+- ⚔️ Codeforces: [Soomro](https://codeforces.com/profile/Soomro)
+
+---
+
+*Passionately curious, which keeps me constantly learning.*
