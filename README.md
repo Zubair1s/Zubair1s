@@ -14,10 +14,6 @@ I am a Final Year Computer Science student at Fast University, interested in Pyt
 ## Skills
 - C++ | Python | Git | GitHub | Linux | HTML | CSS | JAVASCRIPT | C | docker | sql | mongodb
 
-
-## Reach Me
-- Email: zasoomro111@gmail.com
-- LinkedIn: https://www.linkedin.com/in/zubair-ahmed-a4488b30a/
  
 Passionately curious, which keeps me constantly learning. 
  
